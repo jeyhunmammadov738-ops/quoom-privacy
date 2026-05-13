@@ -20,6 +20,8 @@ Welcome to Quoom. This Privacy Policy explains how we handle your data.
 
 ## 简体中文 (Simplified Chinese)
 
+**开发者：Jeyhun Mammadov (Alpha Pulse)**
+
 **生效日期：** 2026年5月10日
 
 欢迎使用 Quoom。本隐私政策解释了我们如何处理您的数据。
