@@ -1,5 +1,7 @@
 # Quoom - Privacy Policy & Terms of Service
 
+**Developer: Jeyhun Mammadov (Alpha Pulse)**
+
 ## English
 
 **Effective Date:** May 10, 2026
