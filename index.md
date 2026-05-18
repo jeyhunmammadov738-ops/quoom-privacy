@@ -1,4 +1,4 @@
-# Quoom - Privacy Policy & Terms of Service
+# QUOOM - Privacy Policy & Terms of Service
 
 **Developer: Jeyhun Mammadov (Alpha Pulse)**
 
